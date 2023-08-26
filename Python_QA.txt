@@ -1,52 +1,32 @@
 Python:
-python is an Interpreted, object-oriented, high-level progaming language and dynamically typed 
+*python is an Interpreted, object-oriented, high-level progaming language and dynamically typed 
+*it can be used to create *web applications
+                          *software development
+                          *mathematical operation 
 
-it can be used to create 
-web applications
-software development
-mathematical operation 
-
-* Software development
-
-mathematics operation
-
-* python can be used on a server to create web application *python can be used to handle big data and complex mathematics read modify.
-
-langue and blynamical typed
-
-
-what cam python do:
+What can python do:
 *python can be used on a server side to create web application 
-* python can be used to handle big data and complexe medhematics
+*python can be used to handle big data and complexe medhematics
 *python can connect to database system, it can also read modify Files
 
-
-
-why python -
-
-X python works on differnt platforms (windows, mac, linser, Reap bery A") * python has a simple Pyntax Brimilar to the English Language - ру -(python has a syntasy) that allows developes to write programs a with fewer lines
-
-n on an interpreter system, meaning that code * python run on Can be executed line written
+Why python:
+*python works on differnt platforms (windows, mac, linser, Reap bery A") 
+*python has a simple Pyntax Brimilar to the English Language - ру -(python has a syntasy) that allows developes to write programs a with fewer lines
+n on an interpreter system, meaning that code 
 
 
 
-the system of rules for the structure of sentence 
+Syntax:
+* python run on Can be executed line written the system of rules for the structure of sentence 
 
-Syntaxi
+Indentation:
+Indentation refers to the spaces at the begiimming of a code live, python uses indentation to indicate a block of code
 
+Comment #:
+*comments can be used to explain python code ={multitive comment """""" : write a multiple comment live 41 2.docsming: it is used as multiline strints of variable
 
-
-
-
-Indentation - Indentation refers to the spaces at the begiimming of a code live, python uses indentation to indicate a block of code Comment #: comments can be used to explain python code =
-
-{multitive comment """""" : write a multiple comment live 41 2.docsming: it is used as multiline strints of variable
-
-Variable variables are container for sharing data values
-
-
-
-
+Variable:
+*variables are container for storing data values
 
 Rules for python variable! & cate-sensitive Dan't 0-9 start with Num & my-van (higher) myvan (symbols)
 
@@ -66,14 +46,15 @@ Do's
 
 
 
-global variable variable that are created outside of a fonction #global variable can be used by anywhen both inside of function and outside
+global variable:
+variable that are created outside of a fonction #global variable can be used by anywhen both inside of function and outside
 
-local variable it can global only be used inside of the function keword if u want global variable inside of the dune Hon = Create
+local variable:
+it can global only be used inside of the function keword if u want global variable inside of the dune Hon = Create
 
 use global keyb def mame() y word to create the variable
 
 Syntax : global
-
 X = "Hello wellcome print(s)
 
 name
