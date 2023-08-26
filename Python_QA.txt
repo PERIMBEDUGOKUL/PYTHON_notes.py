@@ -1,1 +1,404 @@
 Python:
+python is an Interpreted, object-oriented, high-level progaming language and dynamically typed 
+
+it can be used to create 
+web applications
+software development
+mathematical operation 
+
+* Software development
+
+mathematics operation
+
+* python can be used on a server to create web application *python can be used to handle big data and complex mathematics read modify.
+
+langue and blynamical typed
+
+
+what cam python do:
+*python can be used on a server side to create web application 
+* python can be used to handle big data and complexe medhematics
+*python can connect to database system, it can also read modify Files
+
+
+
+why python -
+
+X python works on differnt platforms (windows, mac, linser, Reap bery A") * python has a simple Pyntax Brimilar to the English Language - ру -(python has a syntasy) that allows developes to write programs a with fewer lines
+
+n on an interpreter system, meaning that code * python run on Can be executed line written
+
+
+
+the system of rules for the structure of sentence 
+
+Syntaxi
+
+
+
+
+
+Indentation - Indentation refers to the spaces at the begiimming of a code live, python uses indentation to indicate a block of code Comment #: comments can be used to explain python code =
+
+{multitive comment """""" : write a multiple comment live 41 2.docsming: it is used as multiline strints of variable
+
+Variable variables are container for sharing data values
+
+
+
+
+
+Rules for python variable! & cate-sensitive Dan't 0-9 start with Num & my-van (higher) myvan (symbols)
+
+my (spaces) nam
+
+de keywords,
+
+* myvad
+
+my-van
+
+4 - mymanue
+
+Do's
+
+
+
+
+
+global variable variable that are created outside of a fonction #global variable can be used by anywhen both inside of function and outside
+
+local variable it can global only be used inside of the function keword if u want global variable inside of the dune Hon = Create
+
+use global keyb def mame() y word to create the variable
+
+Syntax : global
+
+X = "Hello wellcome print(s)
+
+name
+
+
+
+
+Now primitive data structure N
+
+List
+
+tople
+
+Set
+
+// Dist
+
+Heterogeneous structure on the
+
+id contains different data types
+
+shift
+
+er
+
+AM
+
+RA
+
+GRA
+
+ZEN
+
+IES
+
+Primptive data structures.
+
+Integers
+
+float
+
+Shing
+
+boolean
+
+Homogeneous means that if only contains a single data types
+
+nter
+
+Pg
+
+data types:-
+
+
+
+
+
+Type cauffing!- (or) constructor Sonition
+
+carting in python therefore done using constructor Rome tioms *int ("), float (), str(), list(), teplel), set (), dict()
+
+slicing shing: specify shout Pindere and end indesc, separated by colem,
+
+Yange of String [25]
+
+slice from start a [:5]
+
+slice to end
+
+a2 J
+
+neg indese a[-5:-2]
+
+
+
+
+string concatenation: To concatenate, or combine two things you can = use the + operator
+
+string formating: the format() method takes the passed argument, = formate them, and places them in the shing where the place holders & Z
+
+Syntare: fact = "" A my name is { } from { }; format Gooty print (dex)
+
+
+
+
+
+amlator: & the process of converting programming Biretruction in form of Binary instruction is called as translation & the Device used for translation is called as Transtafor
+
+pe of translator::
+
+* compier
+
+Interpreter
+
+
+
+
+
+
+Compiten: it is a transtator which will convert the entire code at once in form of binary instructions
+
+Intepreter: it is a translator which will convent the line by line instruction in form of binary instruction
+
+
+
+
+
+
+ywords six these are universal standard words, whose Task in pre-defined by the developer....
+
+* we can access the keywords, but we cannot modify the original task
+
+amically typed python is a dynamically tyled language" which means that you don't have to specify the data type of a variable when we declare
+
+
+
+
+
+
+
+python library : xit is a collection of related modules, it contin bundles of code
+
+* it is pre-defined by the developer
+
+* it is easy to coccess, but we cannot modify it's predefined taile
+
+ex: import math, pandas, mampages, matplotlib
+
+
+
+
+
+
+
+List: list are used to store multiple items in a single variable Bn used to store collections of data, it is Indexed *Blyth Ban sented by [3 * list is represented
+
+* list is ordered
+
+* list is mutable
+
+* list is Heterogeneous list contains duplicate
+
+
+
+Tople • #Tuple are used to store multiple items in a (ingl erialate * python used to store collections of data, it is indexed
+
+tuple is represented by ()
+
+& tuple is ordered
+
+* tuple. is immutable
+
+tuple is Heterogeneous
+
+*it contains duplicate
+
+
+
+
+
+set: python used to store collection of data, it is unindend * it it represented by { }
+
+* Jet is unordered
+
+a set is immutable
+
+* set is Heterogeneous
+
+* it is doesnt allows duplicate items
+
+
+
+
+
+
+
+
+
+dict dictionary consist of a collection of key and values pairs
+
+* dictionary is represented by { } and key: valves * dict is heterogeneol
+
+Idict "key" is unique and "value" in doplicated
+
+> dict is ordered
+
+* dict is mutable
+
+
+
+
+
+
+string methods:
+
+copitalize(). Case fold (9
+
+Center (2)
+
+count ( )
+
+end with ()
+
+Start with ()
+
+find()
+
+index()
+
+format()
+
+is digite
+
+is lower ()
+
+is upper()
+
+lowest)
+
+upper)
+
+Joine
+
+replace()
+
+Swap case!)
+
+Split()
+
+Little()
+
+
+
+
+list method:
+
+appendes
+
+clear 1
+
+copy ( )
+
+count()
+
+´ex fend()
+
+index ()
+
+pope)
+
+removel)
+
+reversec
+
+Sort()
+
+
+
+
+
+
+set method: adde)
+
+copy()
+
+(updated)
+
+vemove()
+
+clearc
+
+Didiscard()
+
+Tuple method:
+
+popes union()
+
+Count()
+
+Rndex ()
+
+
+
+
+
+
+
+dict method:
+
+Keys()
+
+values()
+
+get()
+
+items().
+
+clear()
+
+соруся pop
+
+Update (
+
+popitem (
+
+
+
+
+
+
+
+Openators: operators are used to perform operations on variable
+
+and values
+
+Arithmetic operators
+
+* Assignment operators
+
+* Comparison operators (or) Relational operators
+
+* logical operators
+
+R 1 Identity Operators
+
+* Membership operators
+
+* Bitwise operators
