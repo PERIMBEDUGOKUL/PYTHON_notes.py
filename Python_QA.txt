@@ -48,69 +48,35 @@ Rules for python variable :
 *_myname
 *myname
 
-global variable:
-variable that are created outside of a fonction #global variable can be used by anywhen both inside of function and outside
+Global variable :
+*Global variable that are created outside of a fonction.
+*Global variable can be acess anywhere both inside of function and outside.
 
-local variable:
-it can global only be used inside of the function keword if u want global variable inside of the dune Hon = Create
+Local variable :
+*Local variable are created inside of a fonction.
+*Local variable can access only inside of function.
 
-use global keyb def mame() y word to create the variable
+Global keyword :
+*If u want to create global variable inside of the funtion use global keyword to create the variable.
+syntax: def name():
+            global x
+            x="hello"
+            print(x)
+        name()
 
-Syntax : global
-X = "Hello wellcome print(s)
-
-name
-
-
-
-
-Now primitive data structure N
-
-List
-
-tople
-
-Set
-
-// Dist
-
-Heterogeneous structure on the
-
-id contains different data types
-
-shift
-
-er
-
-AM
-
-RA
-
-GRA
-
-ZEN
-
-IES
-
-Primptive data structures.
-
-Integers
-
-float
-
-Shing
-
-boolean
-
-Homogeneous means that if only contains a single data types
-
-nter
-
-Pg
-
-data types:-
-
-
+Data types:-
+--Primitive data structure:
+*Integers
+*Float
+*String
+*Boolean
+*Homogeneous means that if only contains a single data type
+--Non primitive data structure:
+*List
+*Tuple
+*Set
+*Dist
+*Heterogeneous structure it contains different data types
 
 
 
