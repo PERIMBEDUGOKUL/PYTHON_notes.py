@@ -1,50 +1,52 @@
-Python:
-*python is an Interpreted, object-oriented, high-level progaming language and dynamically typed 
-*it can be used to create *web applications
+Python :
+*Python is an Interpreted, object-oriented, high-level progaming language and dynamically typed.
+*It can be used to create *web applications
                           *software development
                           *mathematical operation 
 
-What can python do:
-*python can be used on a server side to create web application 
-*python can be used to handle big data and complexe medhematics
-*python can connect to database system, it can also read modify Files
+What can python do :
+*Python can be used on a server side to create web application.
+*Python can be used to handle big data and complexe medhematics.
+*Python can connect to database system, it can also read modify Files.
 
-Why python:
-*python works on differnt platforms (windows, mac, linser, Reap bery A") 
-*python has a simple Pyntax Brimilar to the English Language - ру -(python has a syntasy) that allows developes to write programs a with fewer lines
-n on an interpreter system, meaning that code 
+Why python :
+*Python works on differnt platforms (windows, mac, linser, Reasbery pi").
+*Python has a simple Pyntax Brimilar to the English Language,that allows developes to write programs a with fewer lines.
+*Python run on an interpreter system, meaning that code can br executed line by line as soon as it is written.
 
+Syntax :
+*the system of rules for the structure of sentence.
 
-
-Syntax:
-* python run on Can be executed line written the system of rules for the structure of sentence 
-
-Indentation:
-Indentation refers to the spaces at the begiimming of a code live, python uses indentation to indicate a block of code
+Indentation :
+*Indentation refers to the spaces at the begiimming of a code line.
+*Python uses indentation to indicate a block of code.
 
 Comment #:
-*comments can be used to explain python code ={multitive comment """""" : write a multiple comment live 41 2.docsming: it is used as multiline strints of variable
+*Cmments can be used to explain python code.
+
+Mmultiline comment """___""" :
+*Write a multiple comment line.
+
+Doc-string """______________________________
+______________________________""" :
+*It is used as multiline strints in variable.
 
 Variable:
-*variables are container for storing data values
+*Variables are container for storing data values.
 
-Rules for python variable! & cate-sensitive Dan't 0-9 start with Num & my-van (higher) myvan (symbols)
-
-my (spaces) nam
-
-de keywords,
-
-* myvad
-
-my-van
-
-4 - mymanue
-
-Do's
-
-
-
-
+Rules for python variable :
+--Dan't :
+*case-sensitive
+*0-9 start with num
+*keywords
+*name(space)name
+*my-name
+*my@nmae
+--Do's :
+*myvar2
+*my_var
+*_myname
+*myname
 
 global variable:
 variable that are created outside of a fonction #global variable can be used by anywhen both inside of function and outside
